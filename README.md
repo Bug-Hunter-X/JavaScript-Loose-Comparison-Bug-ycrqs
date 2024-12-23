@@ -1,0 +1,2 @@
+# JavaScript Loose Comparison Bug
+This repository demonstrates a common yet subtle bug in JavaScript related to loose comparison (==) and how it can lead to unexpected results. The bug involves comparing values of different types, which can lead to incorrect boolean evaluations. The solution uses strict comparison (===) to prevent this issue.
